@@ -1,0 +1,7 @@
+{
+  "name": "TravelTO",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
